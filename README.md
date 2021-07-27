@@ -16,4 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keremyagan)](https://github.com/keremyagan/github-readme-stats)
 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@keremyagan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@keremyagan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@keremyagan/0" alt="Recent Article 0">
+
+  
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@keremyagan/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@keremyagan/1" alt="Recent Article 1">
